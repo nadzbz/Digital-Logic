@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Nadir Chi
 // 
 // Create Date:    17:22:09 09/21/2018 
 // Design Name: 
